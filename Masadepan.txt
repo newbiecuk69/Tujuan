@@ -3,3 +3,5 @@ kuasai laravel
 kuasai react
 kuasai backend
 kuasai front end
+kuasai database
+kuasai agama
